@@ -1,1 +1,3 @@
-![Casper Kristiansson's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasperKristiansson&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=midnight-purple)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CasperKristiansson&layout=compact&theme=midnight-purple&count_private=true)
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=CasperKristiansson&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasperKristiansson&layout=compact&theme=midnight-purple&hide_border=true" /> |
+| ------------- | ------------- |
