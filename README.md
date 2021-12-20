@@ -22,6 +22,10 @@
 - [IS1200 - Computer Hardware Engineering](https://github.com/CasperKristiansson/Ping-Pong-in-C-Using-Chipkit32-IS1200)
 - [ID1018 - Programming I](https://github.com/CasperKristiansson/Programmering-I-ID1018)
 
+<h3>📄 Other Courses</h3>
+
+- [Elements of AI - Building AI](https://github.com/CasperKristiansson/Elements-of-AI-Building-Ai)
+
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=CasperKristiansson&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasperKristiansson&layout=compact&theme=midnight-purple&hide_border=true" /> |
 | ------------- | ------------- |
