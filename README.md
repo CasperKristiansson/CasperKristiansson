@@ -19,7 +19,8 @@
 - [IV1351 - Data Storage Paradigms](https://github.com/CasperKristiansson/Data-Storage-Paradigms-IV1351)
 - [ID1021 - Algorithms and Data Structures](https://github.com/CasperKristiansson/Algorithms-and-Data-Structures-ID1021)
 - [IV1350 - Object Oriented Design](https://github.com/CasperKristiansson/Objektorienterad-design-IV1350)
-- [IS1200 - Computer Hardware Engineering](https://github.com/CasperKristiansson/Ping-Pong-in-C-Using-Chipkit32-IS1200)
+- [IS1200 - Ping Pong Mini Project](https://github.com/CasperKristiansson/Ping-Pong-in-C-Using-Chipkit32-IS1200)
+- [IS1200 - Computer Hardware Engineering](https://github.com/CasperKristiansson/Computer-Hardware-Engineering-IS1200)
 - [ID1018 - Programming I](https://github.com/CasperKristiansson/Programmering-I-ID1018)
 
 <h3>📄 Other Courses</h3>
