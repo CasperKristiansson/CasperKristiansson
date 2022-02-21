@@ -27,7 +27,7 @@
 
 <br>
 
-<h3 align="left">Tools & Framework</h3>
+<h3 align="left">Tools & Frameworks</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black" height="25">
@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white" height="25">
 </p>
 
 <br>
