@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/Plotly-239120?logo=plotly&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/OpenCV-27338e?logo=OpenCV&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="25">
 </p>
