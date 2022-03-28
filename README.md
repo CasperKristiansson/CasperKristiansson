@@ -47,7 +47,7 @@
 <h3>🔭 University Courses</h3>
 
 - [ID1019 - Programming II](https://github.com/CasperKristiansson/Programming-II-ID1019)
-- [IK1203 - Networks-and-Communication](https://github.com/CasperKristiansson/Networks-and-Communication-IK1203)
+- [IK1203 - Networks and Communication](https://github.com/CasperKristiansson/Networks-and-Communication-IK1203)
 - [DH2642 - MovieBoxDB Course Project](https://github.com/CasperKristiansson/MovieBoxDB)
 - [DH2642 - Interaction Programming and the Dynamic Web](https://github.com/CasperKristiansson/Interaction-Programming-and-the-Dynamic-Web-DH2642)
 - [IV1351 - Data Storage Paradigms](https://github.com/CasperKristiansson/Data-Storage-Paradigms-IV1351)
