@@ -39,6 +39,8 @@
   <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?logo=microsoft-azure&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" height="25">
 </p>
 
 <br>
