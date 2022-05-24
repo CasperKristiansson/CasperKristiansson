@@ -47,7 +47,7 @@
 
 <h3>🔭 University Courses</h3>
 
-- [II1302 - Projects and Project Methods](https://github.com/CasperKristiansson/Weather-Predictor)
+- [II1302 - Weather Predictor Course Project](https://github.com/CasperKristiansson/Weather-Predictor)
 - [ID1019 - Programming II](https://github.com/CasperKristiansson/Programming-II-ID1019)
 - [IK1203 - Networks and Communication](https://github.com/CasperKristiansson/Networks-and-Communication-IK1203)
 - [DH2642 - MovieBoxDB Course Project](https://github.com/CasperKristiansson/MovieBoxDB)
