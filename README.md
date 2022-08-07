@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" height="26">
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white" height="26">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="25">
 </p>
 
 <br>
@@ -41,6 +42,9 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?logo=microsoft-azure&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=Amazon%20DynamoDB&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/GraphQl-E10098?logo=graphql&logoColor=white" height="25">
 </p>
 
 <br>
