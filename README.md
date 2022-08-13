@@ -32,7 +32,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black" height="25">
-  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" height="26">
   <img src="https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black" height="25">
   <img src="https://img.shields.io/badge/Pandas-2C2D72?logo=pandas&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Plotly-239120?logo=plotly&logoColor=white" height="25">
@@ -41,7 +40,6 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?logo=microsoft-azure&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=Amazon%20DynamoDB&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/GraphQl-E10098?logo=graphql&logoColor=white" height="25">
