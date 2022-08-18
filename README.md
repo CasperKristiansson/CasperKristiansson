@@ -64,14 +64,3 @@
 <h3>📄 Other Courses</h3>
 
 - [Elements of AI - Building AI](https://github.com/CasperKristiansson/Elements-of-AI-Building-Ai)
-
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=CasperKristiansson&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" alt="Anurag's github stats" height="200"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasperKristiansson&layout=compact&theme=midnight-purple&hide_border=true" height="200"/> |
-| ------------- | ------------- |
-
-
-<p align="center">
-  <a href='https://www.codewars.com/users/CasperKristiansson'>
-    <img src="https://www.codewars.com/users/CasperKristiansson/badges/large">
-  </a>
-</p>
