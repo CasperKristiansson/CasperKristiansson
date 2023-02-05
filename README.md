@@ -47,20 +47,8 @@
 
 <br>
 
-<h3>🔭 University Courses</h3>
+<h3 align="left">
+  
+  [🔭 KTH Computer Science Repositories](https://github.com/CasperKristiansson/KTH-Computer-Science-Courses)
 
-- [II1302 - Weather Predictor Course Project](https://github.com/CasperKristiansson/Weather-Predictor)
-- [ID1019 - Programming II](https://github.com/CasperKristiansson/Programming-II-ID1019)
-- [IK1203 - Networks and Communication](https://github.com/CasperKristiansson/Networks-and-Communication-IK1203)
-- [DH2642 - MovieBoxDB Course Project](https://github.com/CasperKristiansson/MovieBoxDB)
-- [DH2642 - Interaction Programming and the Dynamic Web](https://github.com/CasperKristiansson/Interaction-Programming-and-the-Dynamic-Web-DH2642)
-- [IV1351 - Data Storage Paradigms](https://github.com/CasperKristiansson/Data-Storage-Paradigms-IV1351)
-- [ID1021 - Algorithms and Data Structures](https://github.com/CasperKristiansson/Algorithms-and-Data-Structures-ID1021)
-- [IV1350 - Object Oriented Design](https://github.com/CasperKristiansson/Objektorienterad-design-IV1350)
-- [IS1200 - Ping Pong Mini Project](https://github.com/CasperKristiansson/Ping-Pong-in-C-Using-Chipkit32-IS1200)
-- [IS1200 - Computer Hardware Engineering](https://github.com/CasperKristiansson/Computer-Hardware-Engineering-IS1200)
-- [ID1018 - Programming I](https://github.com/CasperKristiansson/Programmering-I-ID1018)
-
-<h3>📄 Other Courses</h3>
-
-- [Elements of AI - Building AI](https://github.com/CasperKristiansson/Elements-of-AI-Building-Ai)
+</h3>
