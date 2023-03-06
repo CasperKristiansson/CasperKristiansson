@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Casper</h1>
 
+<img align="right" src="https://github.com/CasperKristiansson/CasperKristiansson/blob/main/metrics.plugin.isocalendar.svg" width="45%">
+<img algin="left" src="https://github.com/CasperKristiansson/CasperKristiansson/blob/main/metrics.classic.svg" width="45%">
+
+
 - 👨‍💻 All of my projects are available at [https://casperkristiansson.github.io/Personal-Portfolio/](https://casperkristiansson.github.io/Personal-Portfolio/)
 
 - 📫 How to reach me **casper.kristiansson@yahoo.se**
@@ -44,11 +48,3 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/GraphQl-E10098?logo=graphql&logoColor=white" height="25">
 </p>
-
-<br>
-
-<h3 align="left">
-  
-  [🔭 KTH Computer Science Repositories](https://github.com/CasperKristiansson/KTH-Computer-Science-Courses)
-
-</h3>
