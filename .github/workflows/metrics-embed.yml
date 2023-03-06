@@ -26,3 +26,22 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
+      - uses: lowlighter/metrics@latest
+        name: Opened by user
+        with:
+          filename: metrics.plugin.followup.user.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_sections: user
+      - uses: lowlighter/metrics@latest
+        name: Achivements
+        with:
+          filename: metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+
+
