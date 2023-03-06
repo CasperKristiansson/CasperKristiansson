@@ -35,13 +35,12 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: user
       - uses: lowlighter/metrics@latest
-        name: Achivements
+        name: Most used (with details)
         with:
-          filename: metrics.plugin.achievements.compact.svg
+          filename: metrics.plugin.languages.details.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
 
 
