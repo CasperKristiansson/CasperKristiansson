@@ -13,8 +13,16 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
+        name: ISO calendar
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.isocalendar.svg
           base: ""
           plugin_isocalendar: yes
+      - uses: lowlighter/metrics@latest
+        name: Classic
+        with:
+          filename: metrics.classic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
