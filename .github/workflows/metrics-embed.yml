@@ -26,21 +26,19 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
-      - uses: lowlighter/metrics@latest
-        name: Opened by user
-        with:
-          filename: metrics.plugin.followup.user.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_followup: yes
-          plugin_followup_sections: user
-      - uses: lowlighter/metrics@latest
-        name: Most used (with details)
-        with:
-          filename: metrics.plugin.languages.details.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-
-
+      # - uses: lowlighter/metrics@latest
+      #   name: Opened by user
+      #   with:
+      #     filename: metrics.plugin.followup.user.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_followup: yes
+      #     plugin_followup_sections: user
+      # - uses: lowlighter/metrics@latest
+      #   name: Most used (with details)
+      #   with:
+      #     filename: metrics.plugin.languages.details.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_languages: yes
+      #     plugin_languages_details: bytes-size, percentage
