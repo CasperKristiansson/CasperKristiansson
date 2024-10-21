@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Casper</h1>
-
 <img align="right" src="https://github.com/CasperKristiansson/CasperKristiansson/blob/main/metrics.plugin.isocalendar.svg" width="45%">
 <img algin="left" src="https://github.com/CasperKristiansson/CasperKristiansson/blob/main/metrics.classic.svg" width="45%">
 
 
-- 👨‍💻 All of my projects are available at [https://casperkristiansson.github.io/Personal-Portfolio/](https://casperkristiansson.github.io/Personal-Portfolio/)
+All of my projects are available at [https://casperkristiansson.github.io/Personal-Portfolio/](https://casperkristiansson.github.io/Personal-Portfolio/)
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
