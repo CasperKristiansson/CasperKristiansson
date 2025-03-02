@@ -2,7 +2,7 @@
 <img algin="left" src="https://github.com/CasperKristiansson/CasperKristiansson/blob/main/metrics.classic.svg" width="45%">
 
 
-All of my projects are available at [https://casperkristiansson.github.io/Personal-Portfolio/](https://casperkristiansson.github.io/Personal-Portfolio/)
+All of my projects are available at [casperkristiansson.com](https://casperkristiansson.com/)
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
