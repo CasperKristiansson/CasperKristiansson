@@ -18,6 +18,7 @@ All of my projects are available at [casperkristiansson.com](https://casperkrist
 - [Finance Tracker](https://github.com/CasperKristiansson/Finance-Tracker) - A full-stack personal finance workspace that turns raw transactions into clear budgets, goals, and net-worth.
 - [Podcast Tracker](https://github.com/CasperKristiansson/Podcast-Tracker) - A Spotify-synced podcast hub that surfaces new episodes, tracks progress, and organizes listening history.
 - [CPython Patch PR Action](https://github.com/CasperKristiansson/python-version-patch-pr) - A GitHub Action that finds Python pins and opens clean, auditable PRs to bump patch versions.
+- [Ember Vault](https://github.com/CasperKristiansson/EmberVault) - A Local-first notes. No accounts. No cloud. Explores Folder vault and Browser storage.
 - [Codex Usage Tracker](https://github.com/CasperKristiansson/codex-usage-tracker) - A local-first Codex CLI analytics suite that ingests JSONL logs into SQLite and ships a dashboard.
 - [pydantic-fixturegen](https://github.com/CasperKristiansson/pydantic-fixturegen) - Deterministic fixture generator for Pydantic v2, dataclasses, TypedDict that makes test data repeatable.
 - [React Whiteboard Studio](https://github.com/CasperKristiansson/React-Whiteboard-Studio) - A polished whiteboard canvas with fluid drawing, smart tools, and persistence designed.
