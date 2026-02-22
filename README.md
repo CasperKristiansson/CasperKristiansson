@@ -21,6 +21,7 @@ All of my projects are available at [casperkristiansson.com](https://casperkrist
 - [Ember Vault](https://github.com/CasperKristiansson/EmberVault) - A Local-first notes. No accounts. No cloud. Explores Folder vault and Browser storage.
 - [Codex Usage Tracker](https://github.com/CasperKristiansson/codex-usage-tracker) - A local-first Codex CLI analytics suite that ingests JSONL logs into SQLite and ships a dashboard.
 - [pydantic-fixturegen](https://github.com/CasperKristiansson/pydantic-fixturegen) - Deterministic fixture generator for Pydantic v2, dataclasses, TypedDict that makes test data repeatable.
+- [Cloud Canvas](https://github.com/CasperKristiansson/CloudCanvas) - An AWS-hosted Excalidraw fork with Google (Cognito) auth, cloud workspaces, and much more.
 - [React Whiteboard Studio](https://github.com/CasperKristiansson/React-Whiteboard-Studio) - A polished whiteboard canvas with fluid drawing, smart tools, and persistence designed.
 - [Kitgrid](https://github.com/CasperKristiansson/kitgrid) - A docs network that aggregates Markdown across repos into one navigable hub with search, structure, and linking.
 - [WeatherBrain](https://github.com/CasperKristiansson/Weather-Predictor) - An ML-driven weather prediction project built on IoT data pipelines, feature engineering, and forecasting.
