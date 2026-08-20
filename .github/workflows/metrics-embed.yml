@@ -16,7 +16,7 @@ jobs:
         name: ISO calendar
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.plugin.isocalendar.svg
+          filename: metrics.plugin.isocalendar.fullyear.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
