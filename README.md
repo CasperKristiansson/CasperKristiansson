@@ -19,5 +19,5 @@
 <br>
 
 <p align="center">
-  <img src="./metrics.plugin.isocalendar.svg" alt="Casper Kristiansson's GitHub contribution calendar" width="50%">
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Casper Kristiansson's full-year GitHub contribution calendar" width="50%">
 </p>
